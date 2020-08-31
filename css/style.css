@@ -1,0 +1,69 @@
+*::before,
+::after{
+    box-sizing: border-box;
+}
+
+
+
+.root{
+    font-family: 'Roboto Mono', monospace;
+
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Russo One', sans-serif;
+
+
+--fs-h1:1.5rem;
+--fs-h2:2rem;
+
+
+}
+
+/* common css* start*/
+
+
+body{
+    width:100%;
+    height:auto;
+    font-size:16px;
+    line-height:1.5rem;
+    margin:0px;
+    padding:0px;
+}
+
+img{
+    width:100%;
+
+    height:auto;
+
+    background-size: cover;
+}
+
+/* common css* end*/
+
+/*hader area start*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+/*hader area stop*/
