@@ -167,7 +167,8 @@ img{
     }
 }
 
-/*small size */
+/*small size*/
+
 @media (min-width: 375px) and (max-width: 667px) {
     * {
       margin: 0px;

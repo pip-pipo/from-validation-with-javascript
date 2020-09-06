@@ -1,5 +1,8 @@
+
+
+
 /*extra small*/
-@media (min-width: 336px) and (max-width: 452px) {
+@media (min-width: 200px) and (max-width: 375px) {
   * {
     margin: 0px;
     padding: 0px;
@@ -232,7 +235,7 @@
 }
 
 /* small media screen */
-@media (min-width: 452px) and (max-width: 568px) {
+@media (min-width: 375px) and (max-width: 667px) {
   * {
     margin: 0px;
     padding: 0px;
@@ -465,7 +468,7 @@
 
 /* responsiv mediam screen*/
 
-@media (min-width: 568px) and (max-width: 768px) {
+@media (min-width: 667px) and (max-width: 768px) {
   * {
     margin: 0px;
     padding: 0px;
@@ -690,4 +693,4 @@
     color: red;
   }
   /*footer end*/
-}
+  }
